@@ -56,10 +56,39 @@ Final Grades
 
 The hour exam with the lowest score will be dropped. The remaining three one-hour exams will count towards 65% of your final grade and the final exam will count towards 35% of your final grade. Recitation attendance and problem set performance will be used to determine the grades for the broad group of students that teeter on the A/B, B/C, or C/D border.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Hour Exams (3) | 65% |
-| Final Exam | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hour Exams (3)
+{{< tdclose >}}
+{{< tdopen >}}
+65%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Study Tips
 ----------
