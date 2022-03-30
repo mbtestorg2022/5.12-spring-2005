@@ -5,6 +5,7 @@ description: 'This resource includes the following topics:
   Stereochemistry of Open-Chain Alkanes, and Cycloalkanes.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-12-organic-chemistry-i-spring-2005/95f6b2ab91ef18105698853ad3cd1d76_lectures4_5.pdf
 file_type: application/pdf
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: lectures4_5.pdf
 uid: 95f6b2ab-91ef-1810-5698-853ad3cd1d76

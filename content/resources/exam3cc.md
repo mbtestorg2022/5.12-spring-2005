@@ -4,6 +4,7 @@ description: This resource contains 12 questions based on stereochemistry, drawi
   structure, and the heterocycles.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-12-organic-chemistry-i-spring-2005/d0fa51f43436d97b957516518d042683_exam3cc.pdf
 file_type: application/pdf
+parent_uid: ac592c0c-539b-b906-b4a9-0e82d4d8194b
 resourcetype: Document
 title: exam3cc.pdf
 uid: d0fa51f4-3436-d97b-9575-16518d042683

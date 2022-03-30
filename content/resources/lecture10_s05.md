@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   Stability, Cycloalkenes, and Reactivity: Addition of H-X to an Alkene (Example).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-12-organic-chemistry-i-spring-2005/4771332c8d3840579f64274e3c6dda5c_lecture10_s05.pdf
 file_type: application/pdf
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: lecture10_s05.pdf
 uid: 4771332c-8d38-4057-9f64-274e3c6dda5c

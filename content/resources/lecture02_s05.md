@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   from structure.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-12-organic-chemistry-i-spring-2005/60b12469c48ab3fc4e0cc9da0c170de8_lecture02_s05.pdf
 file_type: application/pdf
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: lecture02_s05.pdf
 uid: 60b12469-c48a-b3fc-4e0c-c9da0c170de8

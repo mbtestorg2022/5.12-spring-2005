@@ -6,6 +6,7 @@ description: 'This resource incldues the following topics:
   and Molecular Orbitals.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-12-organic-chemistry-i-spring-2005/38f352c2c38e842e2d011341a8232afb_lecture08_s05.pdf
 file_type: application/pdf
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: lecture08_s05.pdf
 uid: 38f352c2-c38e-842e-2d01-1341a8232afb

@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   Ions, Aromatic Heterocycles, and Polycyclic Aromatic Compounds.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-12-organic-chemistry-i-spring-2005/32c24933d1776aea11d87361ebb8d75b_aromaticity.pdf
 file_type: application/pdf
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: aromaticity.pdf
 uid: 32c24933-d177-6aea-11d8-7361ebb8d75b
